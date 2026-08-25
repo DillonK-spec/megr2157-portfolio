@@ -6,7 +6,7 @@ This site is the working record of your engineering design decisions across MEGR
 
 > **Engineering is the art of making decisions you can defend.**
 
-## The three pillars
+> ## The Three Pillars
 
 Most assignment pages are organized around:
 
@@ -16,7 +16,8 @@ Most assignment pages are organized around:
 
 Use the navigation on the left to move between assignments.
 
-## Semester arc
+> ## Semester Arc
+
 
 - **Act I (Weeks 1–7):** Building vocabulary through the bracket sequence.
 - **Act II (Weeks 8–11):** Surveying the machine-element landscape and formally comparing options.
