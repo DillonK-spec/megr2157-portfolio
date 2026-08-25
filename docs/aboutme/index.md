@@ -1,2 +1,11 @@
 #About Me
-This is how to edit
+
+My name is Dillon Knight, I'm a mechanical engineering student concentrating on energy. The reasoning aspect when it comes to engineering is very attractive to me, I like the idea of considering all possible options, then comparing and contrasting the benefits and disadvantages of different engineering solutions. Engineering isn't always about finding a solution, it can be about finding the best or most efficient solution. I wish to develop my expertise in this field and look at projects as opportunities for growth rather than problems. I believe mindset is one of the most important factors when it comes to improving yourself and solving problems.
+
+ I was brought towards mechanical engineering because of the versatility in the field and potential for higher salaries. I have an affinity for mechanic work an enjoy computer aided design, both have contributed to my interest in the field. Energy has always been an interesting subject to me. There are so many aspects to the field of energy, including how it's generated, transferred, and used. There's also the opportunity to increase the efficiency of existing systems as technology improves. Anyone can grow and it's necessary in a field that relies on new materials, techniques, and consumer needs.
+
+ As I progress in my career as an engineer I plan on improving my ability to make informed choices and evaluate all the specifications of a project. Engineering isn't solely about math, reasoning plays a large part in design. I want to build that skill and learn to apply it effectively. I also plan on improving the other skills necessary to become a successful engineer. Communication and teamwork is also incredibly important when it comes to engineering. Communication applies not only within a team, but also other stages of the design process is necessary to ensure a product is able to be produced and meet standards. 
+
+Defending an engineering decision would involve proving that your design meets project requirements and is the most efficient way to do so. The decision would have to be cost effective, easily manufactured, and efficient. I don't have much experience making or defending engineering decisions and can't currently do it well. I believe I'll be able to develop this skill over the course of the semester.
+
+This assignment probably took around 5 hours, including launching the GitHub website.
