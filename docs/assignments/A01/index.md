@@ -7,9 +7,11 @@ Portfolio/Product Analysis
 ### Task A: Portfolio Analysis
 
 https://venkateeshh.vercel.app/ <br/>
+
 The website's interface allows the user to navigate to projects by either scrolling down or clicking a tab at the top of the page. The projects can be scrolled through horizontally or by clicking the circles at the bottom, but there is no list to view all projects or sort them. A Specific project can be found in under 60 seconds because there are only five listed, but for a bigger list, something else would be needed. An algorithm sorting visualizer on the page links to a GitHub repository with a readme.md file detailing how to run the project, allowing it to be easily reproduced. This visualizer doesn't show what design choices were made, but it acts as a learning tool so that may not be necessary. The language used in this project is all informational and straightforward, it would meet the standards within a company or business.
 
 https://steamhunter360.github.io/engineering-portfolio-website/#projects <br/>
+
 This portfolio has a tab at the top linking to an about section, portfolio, projects, and contact. After clicking the shortcut or scrolling down, all projects are displayed with a title and description. In under 60 second you could find a specific piece of work. The Robotics Arm Control project links to a GitHub repository that explains what the application does and how it functions. There is a brief section that explains the balance of tracking and control needed in the project and justifies it with quantitative evidence. The language used goes in depth and maintains a formal tone, it would meet the standards of an employer.
 
 ### Task B: Product Analysis<br/>
