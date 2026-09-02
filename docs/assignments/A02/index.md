@@ -14,6 +14,10 @@ This is the rough geometry I created for the truss. The applied loads were put a
 ![trusslength](trusslengthmath.jpg) <br>
 These are the calculated lengths for the beams. Most of the lengths were the given lengths of 0.4 meters or 0.3 meters, except for AE which was 0.8 meters (two of the 0.4 dimensions). The three diagonal beams were all 0.5 meters, they were found using the Pythagorean Theorem.
 
+![trussfbd](trussfbd.jpg) <br>
+I created free body diagrams for all the joints within the truss.
+
+
 
 ## Communicate
 
