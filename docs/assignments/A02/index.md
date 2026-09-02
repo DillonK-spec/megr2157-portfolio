@@ -7,7 +7,7 @@ This project entails creating a lightweight planar truss, analyzing all joints a
 ![Truss Diagram](introtrussdiagram.png)
 
 ## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+![Truss Rough Sketch]
 
 ## Communicate
 
