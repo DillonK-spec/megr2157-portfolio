@@ -47,12 +47,16 @@ I found the pin with the most shear stress by looking at both sides of the beam 
 ### CAD Truss
 I modeled the truss as a single piece in Creo.
 
-![cad1](cad1.jpg) <br>
-This was a basic sketch, getting the correct angles on the diagonal beams took time.
-![cad2](cad2.jpg) <br>
+![cad1](cad1.png) <br>
+This was a basic sketch, getting the correct angles on the diagonal beams took time. I hadn't used Creo in a while and this was a good way to relearn it, dimensions can be tricky.
+![cad2](cad2.png) <br>
 This was the completed sketch.
-![cad3](cad3.jpg) <br>
+![cad3](cad3.png) <br>
 This is the extruded object. It was extruded to 17mm, matching the beam width. The mass Creo calculated was 7.410 kg, slightly under my calculation of 7.667 kg.
 
 ## Communicate
 
+### Lessons Learned
+This is the most detailed project my academic career has required. The content was mainly a review, besides designing the truss, the most improvement I had was in optimizing my workflow. All prior problems I've had were only analyzing a truss, not creating one. This project had me brainstorming, computing lengths and stresses, then taking pictures and embedding them. I was eventually able to lock in and work at a steady state. 
+
+### Failure
