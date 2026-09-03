@@ -53,7 +53,7 @@ This was a basic sketch, getting the correct angles on the diagonal beams took t
 This was the completed sketch.
 ![cad3](cad3.PNG) <br>
 This is the extruded object. It was extruded to 17mm, matching the beam width. The mass Creo calculated was 7.410 kg, slightly under my calculation of 7.667 kg.
-
+This is the link to the CAD file : <a href="https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A02/a2cadmodel.prt" download>Download File</a>
 ## Communicate
 
 ### Lessons Learned
