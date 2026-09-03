@@ -59,4 +59,25 @@ This is the link to the CAD file : <a href="https://github.com/DillonK-spec/megr
 ### Lessons Learned
 This is the most detailed project my academic career has required. The content was mainly a review, besides designing the truss, the most improvement I had was in optimizing my workflow. All prior problems I've had were only analyzing a truss, not creating one. This project had me brainstorming, computing lengths and stresses, then taking pictures and embedding them. I was eventually able to lock in and work at a steady state. 
 
-### Failure
+### Failure Analysis - Beams
+A500 structural steel is designed to deform instead of fracturing, so it's unlikely to fracture during failure. There are seven beams in the truss experiencing either compressive or tensile forces.
+
+For beam AE, I expect a yielding failure, it's made of a ductile material and experiences 8.89kN of compression. Area could be increased if more strength is needed.
+
+For beam AD I expect a yielding failure, it's made of a ductile material and experiences 11.11kN of tension.  Area could be increased if more strength is needed.
+
+For beam DE I expect a yielding failure, it's made of a ductile material and experiences 22.22kN of tension. If any beam fails, I would expect it to be this one as it's subjected to the most force.
+
+For beam CD I expect a yielding failure, it's made of a ductile material and experiences 8.89kN of compression. Area could be increased if more strength is needed.
+
+For beam CE I expect a yielding failure, it's made of a ductile material and experiences 13.33kN of compression. Area could be increased if more strength is needed.
+
+For beam BC I expect a yielding failure, it's made of a ductile material and experiences 11.11kN of compression. Area could be increased if more strength is needed.
+
+For beam BE I expect a yielding failure, it's made of a ductile material and experiences 8.89kN of tension. Area could be increased if more strength is needed.
+
+### Failure Analysis - Pins
+The pins are made of hardened tool steel, which is much more brittle than the A500 structural steel. I would expect the pins to fracture from shear stress when they fail. I found [an articlee](https://www.huyett.com/blog/tool-steel?srsltid=AfmBOopSsLaMxnFqiuFWj63ZQaD0vamH7eUV_fe87hzRMoxMKoP25w-D#i9pum) that goes over the composition of tool steel. It states that harder steels are more brittle and steels with a lower carbon content may deform instead of fracturing. The hardened tool steel could be annealed and become less brittle.
+
+### Conclusion
+There are a few more things that need to be considered when building a truss, like factoring the weight from the truss itself into the design and using the most cost effective materials. I think my biggest mistake may have been making one of the beams completely vertical, moving that pin may have helped lower the internal forces in the beam with the most tension. Overall, this project took around 9 hours to complete.
