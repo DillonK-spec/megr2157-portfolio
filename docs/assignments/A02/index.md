@@ -4,6 +4,7 @@
 This project entails creating a lightweight planar truss, analyzing all joints and pins, and determining the necessary size of all parts.
 
 ## Analyze
+# Truss Design
 ![Truss Diagram](introtrussdiagram.png) <br>
 This is the image used to create a Truss. There are two applied loads, one at C applied upwards and one at D applied downwards. Point A is a pin and Point B is a roller. P represents a load of 20kN, a is a distance of 0.4m, and b is a distance of 0.3m.
 
@@ -22,6 +23,8 @@ This is the symbolic solution of all internal forces in the in the x and y direc
 
 ![internalforces](beamstresses.jpg) <br>
 These are all of the calculated internal forces, the order is different because I had to calculate the moment in the corners and worked inwards. The largest force is a 22.22kN tension in DE.
+
+# Calculating Area
 
 ## Communicate
 
