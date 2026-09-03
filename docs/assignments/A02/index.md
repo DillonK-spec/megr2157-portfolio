@@ -45,6 +45,14 @@ The pins within the truss are all to be made with hardened tool steel with a yie
 I found the pin with the most shear stress by looking at both sides of the beam with the most internal stress. The shear of that pin was then multiplied by four as a safety factor and converted to imperial units. I found the are to be 0.118 inches squared and the weight of all five pins to be 0.110 pounds.
 
 ### CAD Truss
+I modeled the truss as a single piece in Creo.
+
+![cad1](cad1.jpg) <br>
+This was a basic sketch, getting the correct angles on the diagonal beams took time.
+![cad2](cad2.jpg) <br>
+This was the completed sketch.
+![cad3](cad3.jpg) <br>
+This is the extruded object. It was extruded to 17mm, matching the beam width. The mass Creo calculated was 7.410 kg, slightly under my calculation of 7.667 kg.
 
 ## Communicate
 
