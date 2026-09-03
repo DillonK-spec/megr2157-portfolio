@@ -39,5 +39,12 @@ I calculated the total length of all beams, then multiplied them by the area to 
 
 ### Connecting Pins
 
+The pins within the truss are all to be made with hardened tool steel with a yield strength of 170 ksi and density of 0.278 lb/ cubic inch.
+
+![trusspins](trusspin.jpg) <br>
+I found the pin with the most shear stress by looking at both sides of the beam with the most internal stress. The shear of that pin was then multiplied by four as a safety factor and converted to imperial units. I found the are to be 0.118 inches squared and the weight of all five pins to be 0.110 pounds.
+
+### CAD Truss
+
 ## Communicate
 
