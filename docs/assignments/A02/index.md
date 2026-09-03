@@ -18,7 +18,10 @@ These are the calculated lengths for the beams. Most of the lengths were the giv
 I created free body diagrams for all the joints within the truss.
 
 ![symbolicsolution](beamsymbolicsolution.jpg) <br>
-This is the symbolic solution of all internal forces based on the free body diagrams.
+This is the symbolic solution of all internal forces in the in the x and y directions. It's based on the free body diagrams. The terms 0.3/0.5 and 0.4/0.5 are used because they are equivalent to sines and cosines of the truss angles. There was also a mistake in this math, BE = 0.8BC.
+
+![internalforces](beamstresses.jpg) <br>
+These are all of the calculated internal forces, the order is different because I had to calculate the moment in the corners and worked inwards. The largest force is a 22.22kN tension in DE.
 
 ## Communicate
 
