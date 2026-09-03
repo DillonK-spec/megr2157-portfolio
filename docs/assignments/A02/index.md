@@ -17,7 +17,8 @@ These are the calculated lengths for the beams. Most of the lengths were the giv
 ![trussfbd](trussfbd.jpg) <br>
 I created free body diagrams for all the joints within the truss.
 
-
+![symbolicsolution](beamsymbolicsolution.jpg) <br>
+This is the symbolic solution of all internal forces based on the free body diagrams.
 
 ## Communicate
 
