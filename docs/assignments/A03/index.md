@@ -10,11 +10,11 @@ The parameters for the bar have the maximum axial deflection at .009 inches. It'
 ### Bar Design
 
 The bar will be 0.5 inches wide and 0.6 inches tall, this makes the area 0.3 square inches. I tried using small, simple numbers to make math easy and lower length.
-![Area](creo1) <br>
+![Area](creo1.PNG) <br>
 I couldn't figure how to change Creo's generated variables directly so I simply set them equal to named variables. The length of the bar will be determined based on the direct tension elongation equation.
-![elongationequation](creo2) <br>
+![elongationequation](creo2.PNG) <br>
 The software calculated the length to be 67.5 inches.
-![lengthcalculation](creo3) <br>
+![lengthcalculation](creo3.PNG) <br>
 
 
 ## Decide
