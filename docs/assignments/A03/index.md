@@ -22,6 +22,7 @@ I then set the material of the object to aluminum and modified the Young's Modul
 
 
 ### Simulations
+
 I fixed one end of the beam and added a 400 pound force to the other end. The force acted in the same direction as the length.
 ![simulationsetup](creo4.PNG) <br>
 This is the deformation simulation in Creo. The sum of the deformation was 0.009005, slightly exceeding the calculated deformation of 0.009
@@ -30,9 +31,22 @@ Here I ran the Von Mises stress simulation and it had a value of 1.5991 ksi.
 ![VonMises](creo6.PNG) <br>
 The maximum stress calculated was 1.8491 ksi.
 ![normalstress](creo7.PNG) <br>
+The yield strength of aluminum is 40ksi, making this beam have a safety factor of 21.63.
 
 ## Decide
+### Calculation Differences
 
+The deflection value that was hand calculated was 0.009in and the one that came from creo was 0.009005in. The percent difference was 0.0556%. I would trust the hand calculation more because I'm not entirely sure what Creo's process was. <br>
+![calculations](handcalc.jpg)
+If a substantial hole was created in the bar, I will assume the diameter is half the width, so 0.25 inches. The diameter over width would be 0.5 and Kt would be 2.16, this would be multiplied by 1.599 and come out as 3.45 ksi. This is still well below the yield strength, but lowers the safety factor.
 
 ## Communicate
+### Modifying Design Parameters
+I will modify the length and width both to 0.1 in, then increase the load to 500 pound of force. I believe this will cause a decrease in the length.
+![sidechange](creo8.PNG) <br>
+This did cause length to shrink quite a bit, it went from 67.5 inches to 1.8 inches.
+![lengthchange](creo9.PNG) <br>
 
+### Reflection
+
+This project was my first experience running simulations in Creo and setting up an FEA. I had trouble configuring the material in Creo and setting variable names, but I worked around it by setting generated variables equal to named variables. This assignment took around 4 and a half hours from start to finish. 
