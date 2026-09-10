@@ -13,9 +13,23 @@ The bar will be 0.5 inches wide and 0.6 inches tall, this makes the area 0.3 squ
 ![Area](creo1.PNG) <br>
 I couldn't figure how to change Creo's generated variables directly so I simply set them equal to named variables. The length of the bar will be determined based on the direct tension elongation equation.
 ![elongationequation](creo2.PNG) <br>
+
 The software calculated the length to be 67.5 inches.
 ![lengthcalculation](creo3.PNG) <br>
 
+I then set the material of the object to aluminum and modified the Young's Modulus to match aluminum 6061, the one in my calculations.
+![material](creo4_5.PNG) <br>
+
+
+### Simulations
+I fixed one end of the beam and added a 400 pound force to the other end. The force acted in the same direction as the length.
+![simulationsetup](creo4.PNG) <br>
+This is the deformation simulation in Creo. The sum of the deformation was 0.009005, slightly exceeding the calculated deformation of 0.009
+![deformation](creo5.PNG) <br>
+Here I ran the Von Mises stress simulation and it had a value of 1.5991 ksi.
+![VonMises](creo6.PNG) <br>
+The maximum stress calculated was 1.8491 ksi.
+![normalstress](creo7.PNG) <br>
 
 ## Decide
 
