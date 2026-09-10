@@ -20,6 +20,7 @@ The software calculated the length to be 67.5 inches.
 I then set the material of the object to aluminum and modified the Young's Modulus to match aluminum 6061, the one in my calculations.
 ![material](creo4_5.PNG) <br>
 
+This is the link to the CAD file : <a href="https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A03/a3parametricbeam2.prt" download>Download File</a>
 
 ### Simulations
 
