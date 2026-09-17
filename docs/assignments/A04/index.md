@@ -47,11 +47,11 @@ I created a 6.05mm hole for the motor shaft, making it slightly larger for clear
 I then added 4 3.4mm clearance holes evenly spaced on feature 2.
 ![mount4](mount4.PNG) <br>
 
-Here is a link to the CAD file : ![part](motormount.prt)
+Here is a link to the CAD file : ![part]([motormount.prt](https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A04/motormount.prt))
 ## Drawing
 
 This is the drawing I created for the part. I struggled with finding the template to add the material, my name, etc, so I inserted text manually.
-![drawing](enginemountdrw.pdf) <br>
+![drawing]([enginemountdrw.pdf](https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A04/enginemountdrw.pdf)) <br>
 
 ## Reflection
 This project took around 4 hours to complete. The hardest part was the math for the deflection and stress. The modeling was easier but my design was simple.
