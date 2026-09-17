@@ -58,8 +58,10 @@ This project took around 4 hours to complete. The hardest part was the math for 
 
 ## Appendix
 Here are some motor mounts with a similar design.
+
 ![universalMount](universalMount.jpg) <br>
-![gokartmount](gokart.jpg)
+
+![gokartmount](gokart.jpg) <br>
 
 
 
