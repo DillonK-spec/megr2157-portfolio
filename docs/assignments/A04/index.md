@@ -47,7 +47,7 @@ I created a 6.05mm hole for the motor shaft, making it slightly larger for clear
 I then added 4 3.4mm clearance holes evenly spaced on feature 2.
 ![mount4](mount4.PNG) <br>
 
-Here is a link to the CAD file : <a href="https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A04/motormount.prt" download>Download File</a>)
+Here is a link to the CAD file : <a href="https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A04/motormount.prt" download>Download File</a>
 ## Drawing
 
 This is the drawing I created for the part. I struggled with finding the template to add the material, my name, etc, so I inserted text manually.
