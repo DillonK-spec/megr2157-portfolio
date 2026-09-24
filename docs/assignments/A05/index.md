@@ -35,8 +35,24 @@ Feature E was treated as if it was in compression. I solved for height and it mu
 ![stress5](stress5.jpg) <br>
 
 ### Elongation Analysis
+I continued the analysis by determining the minimum dimensions required to keep deflection below 0.005 inches. ASTM A36 steel has an elastic modulus of 29,000,000 psi.
 
-## Decide
+Feature A was treated as a cantilever beam. I solved for the minimum radius needed to keep deflection below 0.005 inches. The radius must be greater than or equal to 0.409 inches.
+![deflection1](deflection1.jpg) <br>
+
+Feature B was treated as an axially loaded bar. I solved for the minimum cross-sectional area required to keep elongation below 0.005 inches.
+![deflection2](deflection2.jpg) <br>
+
+Feature C was treated as a simply supported beam with a concentrated load at the center. With the given width and length, I solved for height. The height must be greater than or equal to 0.252 inches.
+![deflection3](deflection3.jpg) <br>
+
+Feature D was treated as an axially loaded member in compression. I solved for the minimum cross-sectional area required to keep deformation below 0.005 inches. The required area is 0.00620 square inches.
+![deflection4](deflection4.jpg) <br>
+
+Feature E was treated as an axially loaded member in compression. With a width of 0.9992 inches and length of 2 inches, I solved for height. The height must be greater than or equal to 0.00828 inches.
+![deflection5](deflection5.jpg) <br>
+
+## Design
 
 
 ## Communicate
