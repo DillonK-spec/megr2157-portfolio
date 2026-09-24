@@ -54,6 +54,20 @@ Feature E was treated as an axially loaded member in compression. With a width o
 
 ## Design
 
+The first multiview sketch shows the dimensions determined from the stiffness analysis. These dimensions represent the minimum sizes needed to keep deflection below 0.005 inches.
+![multiview1](multiview1.jpg) <br>
 
-## Communicate
+The second multiview sketch shows the dimensions determined from the stress analysis. These dimensions account for the safety factor of 4 and keep the stresses below the allowable stress of the material.
+![multiview2](multiview2.jpg) <br>
+
+### Failure Mode
+Stress governed the final dimensions for most of the features. For example, Feature C required a height of 0.4996 inches from the stress analysis, while the stiffness analysis only required 0.252 inches. Because the stress requirement was larger, the final height of Feature C was based on stress.
+
+### Error Propagation
+Values calculated for earlier features were used in the analysis of later features. The load carried by Feature A was transferred through Feature B and then used to determine the reactions in Feature C. An incorrect force in an earlier calculation would therefore cause the dimensions of the later features to also be incorrect. Checking the FBD and force equilibrium for each feature helped prevent this. The design being symmetrical allowed the force transfer to be calculated easier.
+
+### Assumption Sensitivity
+One important assumption was the material choice of ASTM A36 steel. The calculations used a yield strength of 36,000 psi and an elastic modulus of 29,000,000 psi. If a material with a different yield strength or elastic modulus was used, the required dimensions would change. A lower yield strength would require larger dimensions for the stress analysis, while a lower elastic modulus would require larger dimensions to meet the deflection requirement.
+
+## Link Design
 
