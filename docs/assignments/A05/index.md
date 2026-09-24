@@ -71,3 +71,21 @@ One important assumption was the material choice of ASTM A36 steel. The calculat
 
 ## Link Design
 
+I determined the link area required based on the axial stress.
+![link1](link1.jpg) <br>
+
+I then determined the elongation of the link.
+![link2](link2.jpg) <br>
+
+### Sliding Fit
+I selected an RC2 sliding fit because the linkage needs to slide onto Feature A without freely rotating. Machinery’s Handbook, page 651, describes RC2 as allowing parts to move and turn easily. Using Table 8a on page 654, the 1.125-inch nominal size gives a 1.1250–1.1255 in hole and 1.1243–1.1247 in shaft.
+
+### Force Fit
+I selected an FN1 force fit because the shaft requires light assembly pressure. Using Table 11 and the 0.95–1.19 inch size range, the hole is 1.0000–1.0005 in and the shaft is 1.0008–1.0012 in, giving 0.0003–0.0012 in interference.
+
+Below are the tables for fits from the Machinery's Handbook.
+![table](table.jpg)
+![table2](table2.jpg)
+
+## Conclusion
+Overall, I successfully designed the bracket and linkage to meet the required stress, deflection requirements. The entire design and analysis process took around 4 hours to complete.
