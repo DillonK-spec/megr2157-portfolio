@@ -61,6 +61,6 @@ The project took around 3 hours to complete.
 
 ### CAD Files
 
-[Bracket CAD Files](https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A06/drawing1.prt)
+[Bracket CAD File](https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A06/drawing1.prt)
 
 [Drawing](https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A06/drw0001.drw)
