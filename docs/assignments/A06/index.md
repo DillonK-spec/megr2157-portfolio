@@ -21,30 +21,31 @@ The bracket also needs to properly fit over the given T-beam. The dimensions and
 The bracket was modeled in Creo using parameters for the important dimensions. This allows dimensions to change based on the equations used to design the bracket.
 
 ![parametric1](parametric1.PNG) <br>
-
+I started by designing the cylinder that holds the strap.
 
 ![parametric2](parametric2.PNG) <br>
-
+I then set the length
 
 ![parametric3](parametric3.PNG) <br>
-
+I created the bottom of the bracket.
 
 ![parametric4](parametric4.PNG) <br>
-
+I created the sides of the bracket.
 
 ![parametric5](parametric5.PNG) <br>
+I then created the top of the bracket.
 
 ### Drawing
 
 A multiview drawing was created using third-angle projection.
 
-[Drawing Image]
+![Drawing](drawing.PNG)
 
 The sliding surfaces use tighter tolerances because they need to properly fit over the T-beam. Less important dimensions use looser tolerances because they do not directly affect the fit of the bracket.
 
 ### Mistakes
 
-[Briefly explain any mistake/change you made while modeling.]
+Originally, I incorrectly used separate variables for some dimensions instead of relating them to the main design parameters. I fixed this by connecting the sketch and feature dimensions using relations, allowing changes to the main parameters to update the model. 
 
 ## Communicate
 
@@ -56,8 +57,10 @@ This project showed how parameters can be used to connect engineering calculatio
 
 ### Time Spent
 
-The project took approximately ___ hours to complete.
+The project took around 3 hours to complete.
 
 ### CAD Files
 
-[Bracket CAD Files](LINK)
+[Bracket CAD Files](https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A06/drawing1.prt)
+
+[Drawing](https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A06/drw0001.drw)
