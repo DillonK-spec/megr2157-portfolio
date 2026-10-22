@@ -71,11 +71,12 @@ The factor of safety had actually decreased  to 0.0324065 after adding the gusse
 My second design could theoretically withstand more force, but my final design was lighter than it. The first design was the lightest but had a much lower safety factor.
 
 ## Comparison
-| Measurement                 |Design I | Design II | Design III | <br>
-| Max Stress and Location     |  Bottom |   Bottom  |   Bottom   | <br>
-| Mass (pounds)               |   1.62  |    1.78   |     1.75   | <br>
-| Safety Factor               | 0.07432 | 0.330591  |  0.324065  | <br>
-| Number of Elements          |    5    |    5      |      7     | <br>
+| Measurement | Design I | Design II | Design III |
+|---|---|---|---|
+| Max Stress and Location | Bottom | Bottom | Bottom |
+| Mass (pounds) | 1.62 | 1.78 | 1.75 |
+| Safety Factor | 0.07432 | 0.330591 | 0.324065 |
+| Number of Elements | 5 | 5 | 7 |
 
 ### Lessons Learned
 This was my first time using solid works, I enjoyed learning it. I had trouble adding the gusset, but I was able to find a tutorial online.
