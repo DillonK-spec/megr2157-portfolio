@@ -37,69 +37,52 @@ Here I checked the stress with a factor of safety of four. The entire top portio
 
 The lowest factor of safety found in this simulation was 0.07432. The bottom portion of the bracket is relatively thin, there was an obvious mistake in my earlier calculations so that part will be made thicker.
 
-### Iteration 2 – Modified Design
+## Iteration 2 – Modified Design
 
 ### Design Changes
-Describe what was changed and why.
 
-![Modified Design](iteration2.PNG)
+For this design, the thickness of the bottom cylinder and its connecting support were increased.
 
-### Mesh Analysis
+![Modified Design](bracket2.PNG)
 
-![Coarse Mesh](mesh2_coarse.PNG)
+This is a simulation of the part.
 
-![Medium Mesh](mesh2_medium.PNG)
+![Factor of Safety](FOS2.PNG)
 
-![Fine Mesh](mesh2_fine.PNG)
+### Iteration 2 Results
+The factor of safety increased to 0.330591, but is still way below the necessary safety of 4.
 
-
-### Results
-Explain how the changes affected the bracket.
-
-### Iteration 3 – Final Design
+## Iteration 3
 
 ### Design Changes
-Describe the final changes and why they were made.
 
-![Final Design](iteration3.PNG)
+I added a triangular gusset in an attempt to reduce the strain on the bottom of the bracket. I also removed some of the material with a bevel.
 
-### Mesh Analysis
+![Final Design](bracket3.PNG)
 
-![Coarse Mesh](mesh3_coarse.PNG)
+This is the final simulation ran on the part.
 
-![Medium Mesh](mesh3_medium.PNG)
-
-![Fine Mesh](mesh3_fine.PNG)
-
+![Factor of Safety](FOS3.PNG)
 
 ### Results
-Explain the final simulation results.
+The factor of safety had actually decreased  to 0.0324065 after adding the gusset. This left me confused, but it may have needed to extend lower.
 
 ### Final Design Comparison
+My second design could theoretically withstand more force, but my final design was lighter than it. The first design was the lightest but had a much lower safety factor.
 
-| Measurement | Design 1 | Design 2 | Design 3 |
-|---|---|---|---|
-| Maximum Stress and Location | | | |
-| Maximum Deflection and Location | | | |
-| Mass | | | |
-| Safety Factor | | | |
-| Number of Elements | | | |
-
-### Comparison
-Compare the three designs in terms of strength, stiffness, and weight.
+## Comparison
+| Measurement                 |Design I | Design II | Design III |
+| Max Stress and Location     |  Bottom |   Bottom  |   Bottom   | 
+| Mass (pounds)               |   1.62  |    1.78   |     1.75   |
+| Safety Factor               | 0.07432 | 0.330591  |  0.324065  |
+| Number of Elements          |    5    |    5      |      7     |
 
 ### Lessons Learned
-Explain what was learned about FEA, mesh convergence, and design optimization.
+This was my first time using solid works, I enjoyed learning it. I had trouble adding the gusset, but I was able to find a tutorial online.
 
-### Mistakes and Challenges
-Describe any mistakes and how they were corrected.
 
 ### Time Spent
-- Iteration 1:
-- Iteration 2:
-- Iteration 3:
-- Documentation:
-- Total:
+I spent around 3 hours on this project.
 
 ### Final CAD File
-[Download Final Bracket](INSERT_LINK_HERE)
+[Download Final Bracket (.SLDPRT)](https://github.com/DillonK-spec/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A07/bracketiteration3.SLDPRT)
