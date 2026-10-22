@@ -86,4 +86,4 @@ This was my first time using solid works, I enjoyed learning it. I had trouble a
 I spent around 3 hours on this project.
 
 ### Final CAD File
-[Download Final Bracket (.SLDPRT)](https://github.com/DillonK-spec/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A07/bracketiteration3.SLDPRT)
+<a href="https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A07/bracketiteration3.SLDPRT" download>Download File</a>
