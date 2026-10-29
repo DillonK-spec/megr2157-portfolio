@@ -98,28 +98,14 @@ Bearing material
 
 Bearing thickness
 
-Free Body Diagram:
 
 
 
 Calculations:
 
-
-
-Pressure:
-
-
-
-Velocity:
-
-
-
-PV Rating:
-
-
-
-Bearing Thickness
-
+![journalpressure](journalpressure.jpg)
+![journalforce](journalforce.jpg)
+![journalPV](journalPV.jpg)
 
 
 
@@ -143,13 +129,13 @@ Housing Design
 
 ## SolidWorks CAD Modeling
 
-Step 1 – Initial Housing
+Step 1 – Shaft and Bearing Placement
 
 
 
 
 
-Step 2 – Shaft and Bearing Placement
+Step 2 – Initial Housing
 
 
 
