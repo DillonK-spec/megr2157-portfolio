@@ -26,6 +26,7 @@ Shaft strength
 
 <br>
 Free Body Diagram:
+
 ![inputfbd](inputfbd.jpg)
 
 <br>
