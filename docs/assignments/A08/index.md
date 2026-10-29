@@ -113,7 +113,7 @@ Selected Bearings
 The bearing thickness was selected based on the shaft diameter and the required outside diameter of the bearing. Inner diameter was already known, the bearing will have a wall thickness of 0.03125.
 
 
-## SolidWorks CAD Modeling
+## CAD Modeling
 
 I started the modeling by creating a sketch for the shaft.
 
