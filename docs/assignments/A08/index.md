@@ -13,8 +13,8 @@ Diameter: 0.125 in
 Length: 1 in
 
 Gear ratio: 24:9
-<br>
 
+<br>
 Unknowns:
 
 Input torque
@@ -22,8 +22,8 @@ Input torque
 Maximum shear stress
 
 Shaft strength
-<br>
 
+<br>
 Free Body Diagram:
 
 
