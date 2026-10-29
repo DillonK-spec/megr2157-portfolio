@@ -15,6 +15,7 @@ Length: 1 in
 Gear ratio: 24:9
 
 <br>
+
 Unknowns:
 
 Input torque
@@ -26,14 +27,11 @@ Shaft strength
 <br>
 Free Body Diagram:
 
-
 <br>
 Calculations:
 
-
 <br>
 Conclusion:
-
 
 <br>
 ### Output Shaft
