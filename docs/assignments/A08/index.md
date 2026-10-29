@@ -62,15 +62,41 @@ Input shaft stress is 1,222 psi and output shaft stress is 407 psi.
 Both shafts were then analyzed using 1018 steel with a yield strength of 54,000 psi.
 The input shaft has a safety factor of 22.09 and the output shaft had a safety factor of 66.27. Both of these exceed the Machinery's Handbook maximum recommendation of 3.
 
-## Journal Bearing Design
+## Journal Bearing Designs
 
-Bearing Size and Material
-
-
-
-Knowns and Unknowns:
+Bearing Size and Material:
+The inner diameter of the journal bearings will be based on the diameter of the shafts and the material is going to be selected based on load, speed, and PV rating. 
 
 
+Knowns:
+
+Input shaft diameter: 0.125 in
+
+Output shaft diameter: 0.250 in
+
+Input shaft speed: 2933.33 rpm
+
+Output shaft speed: 1100 rpm
+
+Output torque: 1.25 in-lbf
+
+Input torque: 0.46875 in-lbf
+
+Unknowns:
+
+Bearing load
+
+Bearing length
+
+Bearing pressure
+
+Surface velocity
+
+PV rating
+
+Bearing material
+
+Bearing thickness
 
 Free Body Diagram:
 
