@@ -26,14 +26,10 @@ Shaft strength
 
 <br>
 Free Body Diagram:
+![inputfbd](inputfbd.jpg)
 
 <br>
-Calculations:
 
-<br>
-Conclusion:
-
-<br>
 ### Output Shaft
 
 Knowns:
@@ -54,16 +50,16 @@ Maximum shear stress
 Shaft strength
 
 Free Body Diagram:
-
+![outputfbd](outputfbd.jpg)
 
 
 Calculations:
+![Initial Calculations](initialcalc.jpg)
 
-
-
-Conclusion:
-
-
+Input torque needs to be 0.46875 in-lbf.
+Input shaft stress is 1,222 psi and output shaft stress is 407 psi.
+Both shafts were then analyzed using 1018 steel with a yield strength of 54,000 psi.
+The input shaft has a safety factor of 22.09 and the output shaft had a safety factor of 66.27. Both of these exceed the Machinery's Handbook maximum recommendation of 3.
 
 ## Journal Bearing Design
 
