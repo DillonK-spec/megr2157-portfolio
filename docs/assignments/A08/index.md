@@ -110,100 +110,36 @@ Calculations:
 
 
 Selected Bearings
-
-
-
-## Gearbox Housing Design
-
-Initial Sketch
-
-I created an initial sketch to determine the layout of the gearbox and how the two housing components would fit together.
-
-
-
-Housing Design
-
-
-
+The bearing thickness was selected based on the shaft diameter and the required outside diameter of the bearing. Inner diameter was already known, the bearing will have a wall thickness of 0.03125.
 
 
 ## SolidWorks CAD Modeling
 
-Step 1 – Shaft and Bearing Placement
+I started the modeling by creating a sketch for the shaft,
+![A8creo1](A8creo1.PNG)
 
+I extruded the sketch to be an inch.
+![A8creo2](A8creo2.PNG)
 
+I placed the shafts in an assembly and added the gears.
+![A8creo3](A8creo3.PNG)
 
+I added the journal bearings to the shafts.
+![A8creo4](A8creo4.PNG)
 
+I created a housing for the lower portion.
+![A8creo5](A8creo5.PNG)
 
-Step 2 – Initial Housing
-
-
-
-
-
-Step 3 – Second Housing Component
-
-
-
-
-
-Step 4 – Final Assembly
-
-
-
-
-
-## Engineering Drawings
-
-The following drawings show the dimensions and tolerances of the gearbox components.
-
-Input Shaft
-
-
-
-Output Shaft
-
-
-
-Housing Part 1
-
-
-
-Housing Part 2
-
-
-
-Journal Bearings
-
-
-
-Assembly Drawing
-
-
-
-## Mistakes and Revisions
-
-
-
-### Lessons Learned
-
-
+I created a housing for the top portion.
+![A8creo6](A8creo6.PNG)
 
 ## CAD Files
 
-Download Input Shaft
+Download Final Assembly:
+<a href="https://github.com/DillonK-spec/megr2157-portfolio/blob/main/docs/assignments/A08/a8creo.asm.zip" download>Download File</a>
 
-Download Output Shaft
+## Reflection
 
-Download Housing Part 1
+In this assignment, I designed a gearbox in Creo and did the calculations for the shafts and bearings. Both shafts were strong enough for the loads, and I used the bearing calculations to help determine what sizes would work. The modeling took some trial and error, especially when trying to get everything to fit together properly.
 
-Download Housing Part 2
-
-Download Final Assembly
-
-Download Engineering Drawings
-
-9. Time Spent
-
-Total time: [Insert actual hours]
-
+This project took 7 hours.
