@@ -117,21 +117,27 @@ The bearing thickness was selected based on the shaft diameter and the required 
 
 I started the modeling by creating a sketch for the shaft,
 ![A8creo1](A8creo1.PNG)
+<br>
 
 I extruded the sketch to be an inch.
 ![A8creo2](A8creo2.PNG)
+<br>
 
 I placed the shafts in an assembly and added the gears.
 ![A8creo3](A8creo3.PNG)
+<br>
 
 I added the journal bearings to the shafts.
 ![A8creo4](A8creo4.PNG)
+<br>
 
 I created a housing for the lower portion.
 ![A8creo5](A8creo5.PNG)
+<br>
 
 I created a housing for the top portion.
 ![A8creo6](A8creo6.PNG)
+<br>
 
 ## CAD Files
 
@@ -140,6 +146,6 @@ Download Final Assembly:
 
 ## Reflection
 
-In this assignment, I designed a gearbox in Creo and did the calculations for the shafts and bearings. Both shafts were strong enough for the loads, and I used the bearing calculations to help determine what sizes would work. The modeling took some trial and error, especially when trying to get everything to fit together properly.
+In this assignment, I designed a gearbox in Creo and did the calculations for the shafts and bearings. Both shafts were strong enough for the loads, and I used the bearing calculations to help determine what sizes would work. The modeling took some trial and error, especially when trying to get everything to fit together properly. I could not find a correct gear pair with the same ratio, but my model still has all the aspects of a gear box.
 
 This project took 7 hours.
