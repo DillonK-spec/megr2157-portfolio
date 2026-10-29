@@ -115,27 +115,33 @@ The bearing thickness was selected based on the shaft diameter and the required 
 
 ## SolidWorks CAD Modeling
 
-I started the modeling by creating a sketch for the shaft,
+I started the modeling by creating a sketch for the shaft.
+
 ![A8creo1](A8creo1.PNG)
 <br>
 
 I extruded the sketch to be an inch.
+
 ![A8creo2](A8creo2.PNG)
 <br>
 
 I placed the shafts in an assembly and added the gears.
+
 ![A8creo3](A8creo3.PNG)
 <br>
 
 I added the journal bearings to the shafts.
+
 ![A8creo4](A8creo4.PNG)
 <br>
 
 I created a housing for the lower portion.
+
 ![A8creo5](A8creo5.PNG)
 <br>
 
 I created a housing for the top portion.
+
 ![A8creo6](A8creo6.PNG)
 <br>
 
