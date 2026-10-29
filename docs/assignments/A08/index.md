@@ -1,6 +1,6 @@
 # A8 – Gearbox Design
 
-The objective of this assignment is to design a gearbox that can be assembled and disassembled. This includes analyzing the shafts, selecting journal bearings, and creating a two-part gearbox housing in SolidWorks.
+The objective of this assignment is to design a gearbox that can be assembled and disassembled. This includes analyzing the shafts, selecting journal bearings, and creating a two-part gearbox housing.
 
 ## Shaft  Design
 
