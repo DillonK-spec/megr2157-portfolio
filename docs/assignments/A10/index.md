@@ -9,6 +9,13 @@ Below is the concept image given.
 
 ## Analyze
 
+These are the knowns and unknowns for the screw:
+
+![knowns](known.jpg)
+
+Here is the FBD and numerical solving for the screw:
+
+![FBD](FBD.jpg)
 
 
 ## Decide
