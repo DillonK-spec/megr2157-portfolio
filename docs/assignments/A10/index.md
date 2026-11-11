@@ -5,7 +5,7 @@ The objective of this assignment is to design and build a mechanically driven te
 from 1mm to 50mm per minute and be designed with a safety factor of 4. The leadscrew must be at least 18 inches and it's preferred to be short enough to fit on a workbench.
 
 Below is the concept image given.
-![leadscrewconcept](leadscrewconcept.PNG)
+![leadscrewconcept](leadscrewconcept.png)
 
 ## Analyze
 
