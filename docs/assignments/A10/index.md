@@ -17,6 +17,9 @@ Here is the FBD and numerical solving for the screw:
 
 ![FBD](FBD.jpg)
 
+The provided resources show leadscrews made with steel or stainless steel. The minimum yield strength for steels is around 205 MPa, so I will use that to calculate minimum diameter.
+
+![dmin](dmin.jpg)
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
