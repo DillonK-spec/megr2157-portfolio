@@ -7,9 +7,9 @@ from 1mm to 50mm per minute and be designed with a safety factor of 4. The leads
 Below is the concept image given.
 ![leadscrewconcept](leadscrewconcept.png)
 
-## Analyze
+## Lead Screw Design
 
-These are the knowns and unknowns for the screw:
+These are the knowns and unknowns for the lead screw:
 
 ![knowns](known.jpg)
 
