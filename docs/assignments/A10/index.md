@@ -5,9 +5,10 @@ The objective of this assignment is to design and build a mechanically driven te
 from 1mm to 50mm per minute and be designed with a safety factor of 4. The leadscrew must be at least 18 inches and it's preferred to be short enough to fit on a workbench.
 
 Below is the concept image given.
+
 ![leadscrewconcept](leadscrewconcept.png)
 
-## Lead Screw Design
+## Lead Screw Selection
 
 ### Thickness
 
@@ -25,7 +26,7 @@ The provided resources show leadscrews made with steel or stainless steel. The m
 
 ### Rotational Speed
 
-Here are the knowns and unknows for to determine the rotational speed based on a range of vertical speeds.
+Here are the knowns and unknowns for to determine the rotational speed based on a range of vertical speeds.
 
 ![known2](known2.jpg)
 
@@ -58,6 +59,10 @@ I plugged in the values and found the torque to be 5.459 Newtons times meters.
 The lead screw I selected has a part number 98935A911 on mcmaster.com. It's 24 inches long and has a 64,000 psi tensile strength, which equates to 441 MPa. I used 205 MPa in my earlier calculations, but it was for yield strength, which is always lower. ASTM A108 has a minimum yield strength of 195MPa which is slightly lower than my calculations. Considering the safety factor of 4 and the larger than necessary diameter, this lead screw shouldn't deform in a theoretical setup. 
 
 ![leadscrews](leadscrews.PNG)
+
+## Nut Selection
+
+
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
