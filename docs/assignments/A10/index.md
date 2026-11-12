@@ -33,11 +33,31 @@ This is a free body diagram demonstrating how the nut translates around the scre
 
 ![FBD2](FBD2.jpg)
 
-These are the calculations, I just chose 0.1 as as the lead since 10 threads per inch seemed common. 
+These are the calculations, I just chose 0.1 as as the lead since 10 threads per inch seemed common. The lead screw will operate from 0.394 to 19.68 RPM.
 
 ![RPM](RPM.jpg)
 
+### Torque 
 
+The coefficient of friction between steel and bronze was assumed to be 0.16, using the [Coefficient of Friction Reference Chart](https://www.schneider-company.com/coefficient-of-friction-reference-chart/) as a reference.
+
+Here are the knowns and unknowns to find the Torque:
+
+![known3](known3.jpg)
+
+This is a rough free body diagram for the torque and the required formula.
+
+![FBD3](FBD3.jpg)
+
+I plugged in the values and found the torque to be 5.459 Newtons times meters. 
+
+![T](T.jpg)
+
+### Lead Screw Selection
+
+The lead screw I selected has a part number 98935A911 on mcmaster.com. It's 24 inches long and has a 64,000 psi tensile strength, which equates to 441 MPa. I used 205 MPa in my earlier calculations, but it was for yield strength, which is always lower. ASTM A108 has a minimum yield strength of 195MPa which is slightly lower than my calculations. Considering the safety factor of 4 and the larger than necessary diameter, this lead screw shouldn't deform in a theoretical setup. 
+
+![leadscrews](leadscrews.PNG)
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
