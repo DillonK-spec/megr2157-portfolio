@@ -96,6 +96,15 @@ Here is a drawing of the crosshead. It's missing tolerances for the fit, but it 
 
 ![crossdrawing](crossdrawing.PNG)
 
+## Cost Analysis
+
+| Item Number | Quantity | Name | Cost/Item | Total Cost | Purchase Link |
+|:---:|:---:|---|---:|---:|---|
+| 1 | 2 | 1/2"-10 Acme Lead Screw | $6.95 | $13.90 | [Purchase](https://www.mcmaster.com/98935A911/) |
+| 2 | 2 | 932 Bronze Flanged Nut | $125.72 | $251.44 | [Purchase](https://www.mcmaster.com/95120A111/) |
+| 3 | 4 | Aluminum Frame Material | $12.25 | $48.98 | [Purchase](https://www.lowes.com/pd/Mecale-23-6-in-4040-Aluminum-Extrusion-T-Slot-Linear-Rail-4-Pack-6063-T5-Anodized-Profile-Black/5021607235) |
+| 4 | 1 | 6061-T6 Aluminum Crosshead (300 × 70 × 40 mm) | ~$75.00 | ~$75.00 | N/A |
+| | | | **Total Cost** | **$389.32** | |
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
