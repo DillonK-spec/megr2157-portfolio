@@ -128,8 +128,11 @@ I cut aluminum supports to size and put them in the assembly.
 
 ![crosscreo5](crosscreo5.PNG)
 
+### CAD File
 
 [Download CAD File](https://github.com/DillonK-spec/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A10/tensiletester.zip)
 
-## Communicate
+## Takeaways
+
+This project was my first experience making an assembly in SolidWorks. I had trouble converting the downloaded files to millimeters and had to scale them manually. I got to read and browse the web a lot for this project, which added to the time I spent. Overall, I spent around 13 hours making this tensile tester. 
 
