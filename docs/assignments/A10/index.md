@@ -88,9 +88,14 @@ Here is a diagram of the crosshead and the formulas I'll use.
 
 ![FBD5](FBD5.jpg)
 
-These are the calculations for the dimensions I chose. The initial thickness caused too much deflection, so I increased it.  
+These are the calculations for the dimensions I chose. The initial thickness caused too much deflection, so I increased it to 40mm.  
 
 ![crosshead](crosshead.jpg)
+
+Here is a drawing of the crosshead. It's missing tolerances for the fit, but it will be added later.
+
+![crossdrawing](crossdrawing.PNG)
+
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
