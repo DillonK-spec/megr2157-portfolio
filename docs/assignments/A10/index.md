@@ -40,7 +40,7 @@ These are the calculations, I just chose 0.1 as as the lead since 10 threads per
 
 ### Torque 
 
-The coefficient of friction between steel and bronze was assumed to be 0.16, using the [Coefficient of Friction Reference Chart](https://www.schneider-company.com/coefficient-of-friction-reference-chart/) as a reference.
+The coefficient of friction between steel and bronze was assumed to be 0.16, using this [Coefficient of Friction Reference Chart](https://www.schneider-company.com/coefficient-of-friction-reference-chart/) as a reference.
 
 Here are the knowns and unknowns to find the Torque:
 
@@ -56,13 +56,41 @@ I plugged in the values and found the torque to be 5.459 Newtons times meters.
 
 ### Lead Screw Selection
 
-The lead screw I selected has a part number 98935A911 on mcmaster.com. It's 24 inches long and has a 64,000 psi tensile strength, which equates to 441 MPa. I used 205 MPa in my earlier calculations, but it was for yield strength, which is always lower. ASTM A108 has a minimum yield strength of 195MPa which is slightly lower than my calculations. Considering the safety factor of 4 and the larger than necessary diameter, this lead screw shouldn't deform in a theoretical setup. 
+The lead screw I selected has a part number 98935A911 on mcmaster.com. It's 24 inches long and has a 64,000 psi tensile strength, which equates to 441 MPa. I used 205 MPa in my earlier calculations, but it was for yield strength, which is always lower. ASTM A108 has a minimum yield strength of 195MPa which is slightly lower than my calculations. Considering the safety factor of 4 and the larger than necessary diameter, this lead screw shouldn't deform. 
 
 ![leadscrews](leadscrews.PNG)
 
 ## Nut Selection
 
+These are the known forces for the nut.
 
+![known4](known4.jpg)
+
+This is the FBD for the nut and the required equations.
+
+![FBD4](FBD4.jpg)
+
+This is my calculation for the bending stress. I used 10 threads in the calculation because that was the first flange nut I saw with the same thread type.
+
+![nutstress](nutstress.jpg)
+
+This is the nut I ended up choosing, it has part number 95120A111 on McMaster-Carr. Other nuts made of the same material have a tensile strength of 35,000 psi, or 241 Mpa which put it well above the calculated stress. 
+
+![mcnut](mcnut.PNG)
+
+## Crosshead Design
+
+For the crosshead design, I used a length in the range found in "Design, Manufacture, and Testing of an Open Source Tensile Testing Machine for Hands on Learning". I decided to use reasonable lengths and test if they would meet the requirements. It will be made from aluminum. 
+
+![known5](known5.jpg)
+
+Here is a diagram of the crosshead and the formulas I'll use.
+
+![FBD5](FBD5.jpg)
+
+These are the calculations for the dimensions I chose. The initial thickness caused too much deflection, so I increased it.  
+
+![crosshead](crosshead.jpg)
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
