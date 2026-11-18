@@ -29,6 +29,7 @@ A DC gearmotor is being considered because the leadscrews require relatively hig
 I found a motor rated for 6 N*m and 28RPM [Here](https://cautop.com/mall/show-1993526.html)
 
 I used excel to generate theoretical speed and power values based off of torque.
+
 ![excelcurve](excelcurve.png)
 
 This is the generated graph showing the relationship between torque, speed, and power.
