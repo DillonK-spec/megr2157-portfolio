@@ -28,7 +28,7 @@ Each leadscrew requires 5.459 N·m of torque. Since each leadscrew will be drive
 A DC gearmotor is being considered because the leadscrews require relatively high torque at low speeds. A motor with an output speed near 20 RPM and a continuous torque rating of at least 5.459 N·m would be suitable.
 I found a motor rated for 6 N*m and 28RPM [Here](https://cautop.com/mall/show-1993526.html)
 
-I used excel to generate theoretical speed and power values based off of torque. 10 N*m is the peak torque listed and my excel formula for speed was “(33*(1-A2/10))*2*PI()/60”  which linearly decreased the speed from 33 to 0 and converted RPM to Rad/s.
+I used excel to generate theoretical speed and power values based off of torque. 10 N* m is the peak torque listed and my excel formula for speed was “(33*(1-A2/10))*2*PI()/60”  which linearly decreased the speed from 33 to 0 and converted RPM to Rad/s.
 
 ![excelcurve](excelcurve.png)
 
