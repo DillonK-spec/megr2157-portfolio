@@ -110,5 +110,21 @@ This bearing plate will be 0.5” thick and use 0.1/4”-20 bolts at each corner
 | 10 | 2 | Floating Bearing Mounts | $6.00 | $12.00 | N/A |
 | | | | **Total Cost** | **$324.32** | |
 
+### Labor Costs
+
+An hourly rate of $35 was used to calculate engineering labor costs. The total labor cost was determined by multiplying the hours spent on each task by the hourly rate.
+
+| Task | Hours | Rate | Total Cost |
+|---|---:|---:|---:|
+| Leadscrew Selection and Calculations | 2 | $35 | $70.00 |
+| Crosshead Design | 2 | $35 | $70.00 |
+| Motor Selection | 1.5 | $35 | $52.50 |
+| Motor Mount and Coupler Design | 2 | $35 | $70.00 |
+| Frame Design | 2 | $35 | $70.00 |
+| FEA Analysis | 3 | $35 | $105.00 |
+| Floating Bearing Mount Design | 1 | $35 | $35.00 |
+| CAD Assembly and Drawings | 3 | $35 | $105.00 |
+| Documentation | 2 | $35 | $70.00 |
+| **Total** | **18.5** | | **$647.50** |
 
 ## Lessons Learned
