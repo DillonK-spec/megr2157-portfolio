@@ -1,3 +1,4 @@
+
 # A11 – Motor Selection
 
 ## Objective
@@ -30,13 +31,13 @@ I found a motor rated for 6 N*m and 28RPM [Here](https://cautop.com/mall/show-19
 
 I used excel to generate theoretical speed and power values based off of torque. 10 N*m is the peak torque listed and my excel formula for speed was “(33*(1-A2/10))*2*PI()/60”  which linearly decreased the speed from 33 to 0 and converted RPM to Rad/s.
 
-
 ![excelcurve](excelcurve.png)
 
 This is the generated graph showing the relationship between torque, speed, and power.
 
 ![speedtorquecurve](speedtorquecurve.png)
 
+The max power output is around 5 N*m and 15 RPM.
 ## Motor Mount Design (Sean)
 
 The goal of this part of the assignment is to find how thick the motor mounts need to be. Our design features two different motors, which meant we would have 2 brackets.
@@ -125,6 +126,19 @@ An hourly rate of $35 was used to calculate engineering labor costs. The total l
 | Floating Bearing Mount Design | 1 | $35 | $35.00 |
 | CAD Assembly and Drawings | 3 | $35 | $105.00 |
 | Documentation | 2 | $35 | $70.00 |
-| **Total** | **18.5** | | **$647.50** |
+| Total | 18.5 | | $647.50 |
 
 ## Lessons Learned
+
+
+### Dillon Knight
+Time Spent:
+
+
+### Sean Chadwick
+Time Spent:
+
+
+### Marvin Sibelius
+Time Spent:
+
