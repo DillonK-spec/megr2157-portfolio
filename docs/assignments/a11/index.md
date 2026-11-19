@@ -39,21 +39,27 @@ This is the generated graph showing the relationship between torque, speed, and 
 
 ## Motor Mount Design (Sean)
 
+The goal of this part of the assignment is to find how thick the motor mounts need to be. Our design features two different motors, which meant we would have 2 brackets.
 
 ![2a](2a.PNG)
 
+Here, I stated all of the variables we knew and every variable that needed to be found. The force, torque, and dimensions of the holes/bracket were known, except for the thickness of the bracket which is what we are solving for.
 
 ![2b](2b.PNG)
 
+I drew a Free Body diagram of the bracket in question to get a good layout of the bracket and the spacing of each hole, as well as drawing out where each force and moment will be acting.
 
 ![2c](2c.PNG)
 
+I then solved for the thickness algebraically. I solved for both sizes of holes, using two separate diameters.
 
 ![2d](2d.PNG)
 
+Plugging in the numerical values, I got a minimum thickness of .74mm, which is not going to be our thickness of the plate, as that is thin and will ultimately lead to a less accurate plate, we will decide the actual thickness later in the project.
 
 ## Coupler Design (Sean)
 
+The next part of the project was designing a coupler
 
 ![3a](3a.PNG)
 
@@ -64,8 +70,20 @@ This is the generated graph showing the relationship between torque, speed, and 
 ![3c](3c.PNG)
 
 
-![3d](3d.PNG)
+![3d](3d.PNG) 
 
+## Mount design (Sean)
+
+![4a](4a.PNG)
+
+
+![4b](4b.PNG)
+
+
+![4c](4c.PNG)
+
+
+![4d](4d.PNG) 
 
 ## Mounting Bearing (Dillon)
 
@@ -85,5 +103,12 @@ This bearing plate will be 0.5” thick and use 0.1/4”-20 bolts at each corner
 | 3 | 4 | Aluminum Frame Material | $12.25 | $48.98 | [Purchase](https://www.lowes.com/pd/Mecale-23-6-in-4040-Aluminum-Extrusion-T-Slot-Linear-Rail-4-Pack-6063-T5-Anodized-Profile-Black/5021607235) |
 | 4 | 1 | 6060 Aluminum Crosshead | ~10.00|~10.00 | N/A |
 | 5 | 2 | DC Worm Gear Motor | $18.05 | $36.10 | [Purchase](hhttps://cautop.com/mall/show-1993526.html) |
+| 6 | 2 | Motor Mounting Brackets | $8.00 | $16.00 | N/A |
+| 7 | 2 | Leadscrew Couplers | $12.00 | $24.00 | N/A |
+| 8 | 8 | 1/4-20 Bolts | $0.80 | $7.99 | [Purchase](www.amazon.com/dp/B07MQXL594)|
+| 9 | 8 | 1/4-20  Nuts | $0.16 | $4.99 | [Purchase](https://www.amazon.com/dp/B0CSY9G7TW)|
+| 10 | 2 | Floating Bearing Mounts | $6.00 | $12.00 | N/A |
 | | | | **Total Cost** | **$324.32** | |
 
+
+## Lessons Learned
