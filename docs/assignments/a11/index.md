@@ -75,16 +75,16 @@ The next part of the project was designing a coupler
 
 ## Mount design (Sean)
 
-![4a](4a.PNG)
+![4a](4a.png)
 
 
-![4b](4b.PNG)
+![4b](4b.png)
 
 
-![4c](4c.PNG)
+![4c](4c.png)
 
 
-![4d](4d.PNG) 
+![4d](4d.png) 
 
 ## Mounting Bearing (Dillon)
 
