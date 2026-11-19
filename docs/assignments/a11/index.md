@@ -1,4 +1,3 @@
-
 # A11 – Motor Selection
 
 ## Objective
@@ -60,31 +59,44 @@ Plugging in the numerical values, I got a minimum thickness of .74mm, which is n
 
 ## Coupler Design (Sean)
 
-The next part of the project was designing a coupler
+The next part of the project was designing a coupler that would mate the motor shaft and the leadscrew. I followed a similar process as the previous section in getting it to work.This will tell us the thickness of the wall of the coupling, and I will test that against what is available commercially to make sure it is strong enough.
+.
 
 ![3a](3a.PNG)
 
+I started off by listing out all of the known and unknown variables. I knew the torque, the inner diameter, and the S-y value of the stainless steel. I was trying to find the outer diameter, the polar moment, and the overall outer radius.
 
 ![3b](3b.PNG)
 
+This is the Free body diagram of the coupling with the two separate shafts connected into them.
 
 ![3c](3c.PNG)
 
+I solved it first using algebra. The main hold up in this section was my formulas spit out a quartic, which I had to use a calculator to solve instead of traditional methods taught in school. I used a special method in order to estimate the value of the minimum outer diameter.
 
 ![3d](3d.PNG) 
 
+After plugging in the values, I got a minimum outer diameter of 10.5 mm, which left me with a wall thickness of only .25 mm, which was well within the tolerances of the coupling selected. I went with part number 2463K403 on mcmaster
+
 ## Mount design (Sean)
+
+The purpose for this section of the project was to spec out the mounts that connected the crossmember and the vertical frames. 
 
 ![4a](4a.png)
 
+I started off by listing out my knowns  and unknowns for the task. I knew all of the outside forces and torque, but needed to figure out what the forces and stresses looked like on the bar itself to see if it rotated too much. I also specced out the different types of mounts of mcmaster and ended up choosing a mount to use its dimensions.
 
 ![4b](4b.png)
 
+This is the freebody diagram for the mounts and the crossmember.
 
 ![4c](4c.png)
 
+This is where I solved it symbolically for the stress caused by torque and the stress caused by normal force.
 
 ![4d](4d.png) 
+
+After plugging into the values, I got 83.7 Mpa. This is the maximum stress that this material can withstand. This is about 8 times higher than the peak load with a Safety factor of 4 applied to it, so it told us that it will be perfect for the project as there wasn't a weaker option that would be cheaper. I chose part 5537T66 from [mcmaster](https://www.mcmaster.com/5537T66/)
 
 ## Mounting Bearing (Dillon)
 
@@ -103,7 +115,7 @@ This bearing plate will be 0.5” thick and use 0.1/4”-20 bolts at each corner
 | 2 | 2 | 932 Bronze Flanged Nut | $125.72 | $251.44 | [Purchase](https://www.mcmaster.com/95120A111/) |
 | 3 | 4 | Aluminum Frame Material | $12.25 | $48.98 | [Purchase](https://www.lowes.com/pd/Mecale-23-6-in-4040-Aluminum-Extrusion-T-Slot-Linear-Rail-4-Pack-6063-T5-Anodized-Profile-Black/5021607235) |
 | 4 | 1 | 6060 Aluminum Crosshead | ~10.00|~10.00 | N/A |
-| 5 | 2 | DC Worm Gear Motor | $18.05 | $36.10 | [Purchase](hhttps://cautop.com/mall/show-1993526.html) |
+| 5 | 2 | DC Worm Gear Motor | $18.05 | $36.10 | [Purchase](https://cautop.com/mall/show-1993526.html) |
 | 6 | 2 | Motor Mounting Brackets | $8.00 | $16.00 | N/A |
 | 7 | 2 | Leadscrew Couplers | $12.00 | $24.00 | N/A |
 | 8 | 8 | 1/4-20 Bolts | $0.80 | $7.99 | [Purchase](www.amazon.com/dp/B07MQXL594)|
@@ -130,13 +142,14 @@ An hourly rate of $35 was used to calculate engineering labor costs. The total l
 
 ## Lessons Learned
 
-
 ### Dillon Knight
-Time Spent:
+This project gave me a lot of experience in regards to the output of electric motors. I learned how to create a speed and torque graph in Excel and use it to understand power. Another application of this project that taught me was listing the parts and labor. The project cost a little more than I thought it would.
+Time Spent: 4 hours
 
 
 ### Sean Chadwick
-Time Spent:
+The biggest lesson that I learned was in the area of setting up free body diagrams. After having to redo the free body diagram for the frame design portion of choosing mounts, I realized that the complexity of the free body diagram will determine how long the project will take and how accurate it will be. I got better at spec’ing out parts using mcmaster-carr and utilizing that to my advantage when designing certain parts.
+Time Spent: 5 hours
 
 
 ### Marvin Sibelius
